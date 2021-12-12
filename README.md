@@ -1,0 +1,1 @@
+# trocar-senha-root
